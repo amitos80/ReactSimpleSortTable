@@ -70,6 +70,7 @@ npm install infinite-surface
          );
      }
  }
+```
 
 ## Contribution
 To run locally install all the dependencies:
