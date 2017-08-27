@@ -3,10 +3,10 @@ Slim implementation of a table with sorting
 
 ## Installation
 
-infinite-surface is available as an [npm package](https://www.npmjs.org/package/infinite-surface).
+ReactSimpleSortTable is available as an [npm package](https://www.npmjs.org/package/react-simple-sort-table).
 
 ```sh
-npm install infinite-surface
+npm install react-simple-sort-table
 ```
 
 ## Usage
