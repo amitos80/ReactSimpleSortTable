@@ -1,7 +1,7 @@
 {
-  "name": "infinite-surface",
+  "name": "ReactSimpleSortTable",
   "version": "0.0.76",
-  "description": "A ReactJS surface which can be zoom in, zoom out and panned via mouse/touchpad and keyboard",
+  "description": "Slim implementation of a table with sorting",
   "main": "index.js",
   "module": "./index.js",
   "jsnext:main": "./index.es.js",
@@ -11,12 +11,12 @@
     "test": "export NODE_ENV=testing && mocha --compilers js:babel-register --recursive",
     "test:watch": "npm test -- --watch"
   },
-  "author": "Guy Stein",
+  "author": "Amit Friedberg",
   "license": "MIT",
   "peerDependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/dht/infinite-surface.git"
+    "url": "https://github.com/amitos80/ReactSimpleSortTable.git"
   },
   "devDependencies": {
     "babel-cli": "^6.18.0",
