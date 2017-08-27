@@ -1,5 +1,5 @@
 {
-  "name": "ReactSimpleSortTable",
+  "name": "react-simple-sort-table",
   "version": "0.0.76",
   "description": "Slim implementation of a table with sorting",
   "main": "index.js",
